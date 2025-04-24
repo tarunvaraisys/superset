@@ -8146,7 +8146,7 @@ msgstr "Pozycja etykiety węzła pośredniego na drzewie"
 msgid "Position of row level subtotal"
 msgstr "Pozycja sumy częściowej na poziomie wiersza"
 
-msgid "Powered by Apache Superset"
+msgid "Powered by Varaisys Pvt Ltd"
 msgstr "Zasilany przez Apache Superset"
 
 msgid "Pre-filter"

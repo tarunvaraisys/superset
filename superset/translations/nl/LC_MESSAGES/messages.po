@@ -8191,7 +8191,7 @@ msgstr "Positie van tussenliggende knooppuntlabel in de boom"
 msgid "Position of row level subtotal"
 msgstr "Positie van rij niveau subtotaal"
 
-msgid "Powered by Apache Superset"
+msgid "Powered by Varaisys Pvt Ltd"
 msgstr "Mogelijk gemaakt door Apache Superset"
 
 msgid "Pre-filter"
